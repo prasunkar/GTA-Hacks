@@ -1,6 +1,12 @@
 
 # 🥇 [GTA Hacks](http://gtahacks.xyz): [Resourca](https://devpost.com/software/resourca)
 
+> Created by Stephen Le, Neyha Billing, Diana Lin, and Prasun Kar
+
+## 📺 Demonstration
+
+[![Video Demonstration of Resourca](https://img.youtube.com/vi/O97_5VBcIgY/0.jpg)](https://www.youtube.com/watch?v=O97_5VBcIgY)
+
 ## 💡 Inspiration
 
 Our team wanted to focus on the theme of education, as we can relate to the disruptions COVID-19 has caused in the education system. E-learning has made it even harder to understand concepts in school, making most students feel unconfident with their material. Under those circumstances, the best thing you can do is practice, practice, and—you guessed it—practice. Unfortunately, even this is difficult as most teachers don’t have time to provide additional online resources for students, and of course, students can’t rely on their physical textbooks anymore. With all these problems in mind, our team came up with the idea of an online database of resources for both students and teachers alike. 
